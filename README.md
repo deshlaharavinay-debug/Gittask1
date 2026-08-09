@@ -1,4 +1,8 @@
-# Gittask1
-#HelloWorld HTML
-This is my first project. Hello World hope you are having a great day
-The web page displays hello world in browser
+# task1
+# Hello World HTML
+
+This project displays "Hello World!" using HTML.
+
+## Technologies Used
+
+- HTML5
